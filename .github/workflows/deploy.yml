@@ -1,5 +1,5 @@
 # Workflow simples para publicar conteúdo estático no GitHub Pages
-name: Deploy static content to Pages
+name: Deploy do site da Escola de Conselhos
 
 on:
   # Executa quando há push para a branch principal
