@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import { useState } from 'react';
 import { Link, useLocation } from 'react-router-dom';
 // Fix: Use relative paths instead of aliases to resolve module errors.
 import { NAV_LINKS, SOCIAL_LINKS } from '../constants/index';

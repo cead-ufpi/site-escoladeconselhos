@@ -1,4 +1,3 @@
-import React from 'react';
 import { WhatsAppIcon } from './Icons';
 
 export const ContactSection = () => {
@@ -15,8 +14,8 @@ export const ContactSection = () => {
         <div className="grid md:grid-cols-2 gap-12 items-center">
             <div className="flex flex-col items-center md:items-start text-center md:text-left space-y-6">
                  <div className="flex-shrink-0">
-                    <a href="#home" className="text-2xl font-bold text-white">
-                    Logo Escola
+                    <a href="#home">
+                      <img className="h-36 w-auto" src="/logo.png" alt="Logo da Escola de Conselhos Tutelares do Piauí" />
                     </a>
                 </div>
                 <div>
